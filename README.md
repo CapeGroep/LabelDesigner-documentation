@@ -7,7 +7,7 @@ The Label Designer is a WYSIWYG (What You See Is What You Get) editor for creati
 
 ## Start guide
 
-👉 [Label designer documentation](https://github.com/CapeGroep/LabelDesigner-documentation)
+👉 [Label designer documentation](https://capegroep.github.io/LabelDesigner-documentation/)
 
 ## Key Features
 
